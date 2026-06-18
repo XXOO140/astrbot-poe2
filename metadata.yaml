@@ -1,0 +1,5 @@
+name: poe2ninja
+version: 4.1.0
+author: ITTool
+repo: https://github.com/XXOO140/IT-H
+desc: "查询 POE2 构筑统计、物品价格、传说装备交易价格（数据来源 poe.ninja + pathofexile.com）"
